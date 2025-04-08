@@ -34,5 +34,4 @@ Have explored different recommendation methods:
 - Deploy using Streamlit or Flask (optional)
 
 ---
-
-> Created by Azrocks
+Created by Azrocks
