@@ -33,4 +33,6 @@ Have explored different recommendation methods:
 - Expand to include hybrid recommendations
 - Deploy using Streamlit or Flask (optional)
 
+---
+
 Created with ❤️ by Azrocks
